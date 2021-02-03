@@ -1,0 +1,1 @@
+allow bluetooth blkio_dev:dir search;
