@@ -22,7 +22,7 @@ allow vendor_init {
   bservice_prop
   persist_debug_prop
   vendor_persist_dpm_prop
-  qcom_ims_prop
+  vendor_qcom_ims_prop
   reschedule_service_prop
   thermal_engine_prop
   vendor_ssr_prop
